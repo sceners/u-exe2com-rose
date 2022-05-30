@@ -1,4 +1,4 @@
-# u-c2e Unpacker.
+# U-C2E Unpacker.
 
 #### Written in 2000 August.
 
